@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Siwon Yoo</h1>
+<h1 align="center">Hi, I'm Siwon 🔥</h1>
 <h3 align="center">A frontend developer who values user experience above all.</h3>
 
 <p align="center">
@@ -36,12 +36,14 @@
 
 ---
 
-📫 You can reach me at: **sw622@naver.com**
+📫 You can reach me at: **sw622@naver.com**  
+📄 Resume: [My Resume](#)  
+🖥 Portfolio: [My Portfolio](#)
 
 ---
 
-<h3 align="left">📱 Connect with me:</h3>
-<p align="left">
+<h3 align="left">📱 Connect with me</h3>
+<p align="center">
   <a href="https://instagram.com/_yusiwon" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
@@ -52,8 +54,8 @@
 
 ---
 
-<h3 align="left">🛠 Languages and Tools:</h3>
-<p align="left">
+### 🛠 Languages and Tools
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
@@ -96,40 +98,38 @@
 </p>
 
 ---
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siwonyoo&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siwonyoo&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siwonyoo&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+    &nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=siwonyoo&show_icons=true&locale=en" alt="GitHub Stats" />
+  </p>
+</div>
 
 ---
 
-<h3 align="left">📚 Learning & Study</h3>
+### 📚 Learning & Study
 - Consistently taking notes and studying frontend topics daily for over 6 months.
   - [My detailed study notes on Notion](https://slime-fall-1f7.notion.site/178566396b51802d816bfc84abded94d?v=1b2566396b51805cb32d000cb955adf5&source=copy_link) (Feel free to explore and learn!)
-- Deep-diving into JavaScript and React fundamentals.  
-  - [Deep-dive study github page](https://github.com/NoBreath-DeepDive)
+- Deep-diving into JavaScript and React fundamentals.
+  - [Deep-dive Study Notes](https://github.com/NoBreath-DeepDive)
 
 ---
 
-<h3 align="left">🚀 Projects</h3>
-- [Twogether](https://github.com/FRONTENDBOOTCAMP-13th/Final-02-Twogether): Pajama shopping mall web app (React, TypeScript, Zustand)  
-- [BurgerKing Clone](https://github.com/FRONTENDBOOTCAMP-13th/1rem): Responsive UI with Tailwind CSS  
-- [Teenieping-world](https://github.com/FRONTENDBOOTCAMP-13th/JS-05-teeniepingworld): Mini-games web app  
+### 🚀 Projects
+- [Twogether](https://github.com/FRONTENDBOOTCAMP-13th/Final-02-Twogether): Pajama shopping mall web app (React, TypeScript, Zustand)
+- [BurgerKing Clone](https://github.com/FRONTENDBOOTCAMP-13th/1rem): Responsive UI with Tailwind CSS
+- [Teenieping-world](https://github.com/FRONTENDBOOTCAMP-13th/JS-05-teeniepingworld): Mini-games web app
 
 ---
 
-<h3 align="left">🎯 Goals</h3>
-- Build user-centric and accessible frontend applications  
-- Grow as a collaborative team developer with great communication skills  
-- Continuously learn modern frontend technologies and best practices  
+### 🎯 Goals
+- Build user-centric and accessible frontend applications
+- Grow as a collaborative team developer with great communication skills
+- Continuously learn modern frontend technologies and best practices
 
 ---
 
-<h3 align="left">✨ Fun facts & Interests</h3>
-- Passionate about user experience and UI design  
-- Enjoy sharing knowledge with peers and helping others learn  
-- Interested in math and problem solving  
+### ✨ Fun facts & Interests
+- Passionate about user experience and UI design
+- Enjoy sharing knowledge with peers and helping others learn
+- Interested in math and problem solving
