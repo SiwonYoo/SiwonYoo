@@ -28,12 +28,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=siwonyoo" alt="siwonyoo" />
-  </a>
-</p>
-
 ---
 
 📫 You can reach me at: **sw622@naver.com**  
