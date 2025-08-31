@@ -30,9 +30,9 @@
 
 ---
 
-📫 You can reach me at: **sw622@naver.com**  
-📄 Resume: [My Resume](#)  
-🖥 Portfolio: [My Portfolio](#)
+📫 You can reach me at: [sw622@naver.com](mailto:sw622@naver.com)  
+📄 Resume: [My Resume](https://www.notion.so/Siwon-Yoo-249566396b5180c79d15ecec693280f0?source=copy_link)  
+🖥 Portfolio: [My Portfolio](https://siwon-portfolio.vercel.app)
 
 ---
 
