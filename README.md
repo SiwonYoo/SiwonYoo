@@ -127,3 +127,9 @@
 - Passionate about user experience and UI design
 - Enjoy sharing knowledge with peers and helping others learn
 - Interested in math and problem solving
+
+---
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{SiwonYoo}"/>
+</a>
