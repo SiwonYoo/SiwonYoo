@@ -130,6 +130,11 @@
 
 ---
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{SiwonYoo}"/>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=SiwonYoo&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/SiwonYoo?pet-id=750707055582359347"
+    width="600"
+    height="120"
+  />
 </a>
