@@ -30,24 +30,6 @@
 
 ---
 
-📫 You can reach me at: [sw622@naver.com](mailto:sw622@naver.com)  
-📄 Resume: [My Resume](https://www.notion.so/Siwon-Yoo-249566396b5180c79d15ecec693280f0?source=copy_link)  
-🖥 Portfolio: [My Portfolio](https://siwon-portfolio.vercel.app)
-
----
-
-<h3 align="left">📱 Connect with me</h3>
-<p align="center">
-  <a href="https://instagram.com/_yusiwon" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/siwon_622" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-  </a>
-</p>
-
----
-
 ### 🛠 Languages and Tools
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -103,7 +85,7 @@
 
 ### 📚 Learning & Study
 - Consistently taking notes and studying frontend topics daily for over 6 months.
-  - [My detailed study notes on Notion](https://slime-fall-1f7.notion.site/178566396b51802d816bfc84abded94d?v=1b2566396b51805cb32d000cb955adf5&source=copy_link) (Feel free to explore and learn!)
+  - [My detailed study notes on Notion](https://slime-fall-1f7.notion.site/178566396b51802d816bfc84abded94d?v=1b2566396b51805cb32d000cb955adf5&source=copy_link)
 - Deep-diving into JavaScript and React fundamentals.
   - [Deep-dive Study Notes](https://github.com/NoBreath-DeepDive)
 
