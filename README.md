@@ -23,7 +23,7 @@ In my projects, I value **intentional design, user flow, and usability** over si
 **d-edu** [Live](https://d-edu.site) | [GitHub](https://github.com/idealstudy)
 - An education-focused project aimed at **presenting complex information in a clear and intuitive way**.
 
-**bbang.zip** [Live](https://bbangzip.vercel.app)) | [GitHub](https://github.com/SiwonYoo/bbangzip)
+**bbang.zip** [Live](https://bbangzip.vercel.app) | [GitHub](https://github.com/SiwonYoo/bbangzip)
 - A **personal project** fully built by me, from planning and design to development.
 
 **Twogether** [Live](https://twogether-shop.vercel.app) | [GitHub](https://github.com/FRONTENDBOOTCAMP-13th/Final-02-Twogether)
