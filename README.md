@@ -20,7 +20,7 @@ In my projects, I value **intentional design, user flow, and usability** over si
 **AiScReam** [Live](https://aiscream.vercel.app) | [GitHub](https://github.com/SiwonYoo/aiscream)
 - An AI-powered service where I designed the UI with a strong focus on **user flow and meaningful interactions**.
 
-**d-edu** [Live](https://d-edu.site) | [GitHub](https://github.com/idealstudy)
+**D'edu** [Live](https://d-edu.site) | [GitHub](https://github.com/idealstudy)
 - An education-focused project aimed at **presenting complex information in a clear and intuitive way**.
 
 **bbang.zip** [Live](https://bbangzip.vercel.app) | [GitHub](https://github.com/SiwonYoo/bbangzip)
